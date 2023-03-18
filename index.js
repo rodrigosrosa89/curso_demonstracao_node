@@ -14,7 +14,10 @@ fileSystem.readFile('./teste/abcd.txt', function(err, data) {
 })
 
 
-
+const moment = require('moment');
+console.log('Data atual');
+console.log(moment().format());
+console.log(moment().format('dd-mm-yyyy'));
 
 const x = 1+ 1;
 console.log('O valor de 1 + 1 é: ' + x)

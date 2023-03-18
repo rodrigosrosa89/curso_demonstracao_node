@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodrigosrosa89/curso_demonstracao_node/issues"
   },
-  "homepage": "https://github.com/rodrigosrosa89/curso_demonstracao_node#readme"
+  "homepage": "https://github.com/rodrigosrosa89/curso_demonstracao_node#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
