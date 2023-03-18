@@ -1,0 +1,19 @@
+{
+  "name": "curso_demonstracao_pos",
+  "version": "1.0.0",
+  "description": "Este é o meu primeiro projeto Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigosrosa89/curso_demonstracao_node.git"
+  },
+  "author": "Rodrigo Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigosrosa89/curso_demonstracao_node/issues"
+  },
+  "homepage": "https://github.com/rodrigosrosa89/curso_demonstracao_node#readme"
+}
