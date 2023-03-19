@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const port = 3000;
+const webSocket = require('ws');
 
 const logMiddleware = function (req, res, next) {
     console.log('Api recebeu alguma informação');
